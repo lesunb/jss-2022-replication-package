@@ -21,4 +21,4 @@ This study has been conducted by the following investigators:
 &nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/dataset/">dataset</a>: Dataset generated from running the simulations<br>
 &nbsp;&nbsp;&nbsp;├── <a href="https://github.com/lesunb/morse_simulation/tree/831ced7632fbcb6970709463ebd39666647766d4">morse_simulation</a>: Tooling for executing the controlled experiments<br>
 &nbsp;&nbsp;&nbsp;└── <a href="/controlled_experiment/results/">results</a>: Graphs and plots<br>
-└── <a href="https://github.com/gabrielsr/hmrs_mission_control/tree/87d11ba214925c0a6ac618cd4f2ac73d97eb0424">hmrs_mission_control</a>: Implementation of MissionControl<br>
+└── <a href="https://github.com/lesunb/hmrs_mission_control/tree/87d11ba214925c0a6ac618cd4f2ac73d97eb0424">hmrs_mission_control</a>: Implementation of MissionControl<br>
