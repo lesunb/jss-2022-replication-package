@@ -7,6 +7,23 @@ tive mission coordination of cooperative heterogeneous robots".
 
 ```
     |--- morse_simulation : automated tooling for executing the controlled experiments
+        |--- docker : dir with all packges, source, and configuration files used in the simulation
+        |--- docs : documentation files such as diagrams
+        |--- experiment_design : exepriment design related files
+        |---  log : output dir for the simulation logs
+        |---  experiment_sample.json : json example 1
+        |---  experiment_trial_bad.json : json example 2
+        |---  experiment_trials1.json : json example 3
+        |---  experiment_trials.json : json example 4
+        |---  experiment_trials.yaml : docker yaml generated from json example 4
+        |---  make_table.py : scrpit to create csv tables from logs data
+        |---  README.md : readme
+        |---  run_my_image.bash : bash script helper to run the docker images that need run a GUI
+        |---  run_simulation.py : automated tool script
+        |---  sim1.env : environment file example 1
+        |---  test.env : environment file example 2
+        |---  sim.env : configures the environment variables shared between all containers
+        |---  trials.json : defines a list of scenarios to be tested, output from mission_control, automated tool input
     |--- dataset
     |--- analysis_scripts
     |--- results
