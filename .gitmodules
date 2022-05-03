@@ -1,3 +1,6 @@
 [submodule "mission_control/morse_simulation"]
 	path = mission_control/morse_simulation
 	url = https://github.com/lesunb/morse_simulation
+[submodule "mission_control/hmrs_mission_control"]
+	path = mission_control/hmrs_mission_control
+	url = https://github.com/lesunb/hmrs_mission_control
