@@ -13,19 +13,12 @@ This study has been conducted by the following investigators:
 
 ### Overview of the replication package
 
-├── <a href="/architecture_inspection/">architecture_inspection</a><br>
-&nbsp;&nbsp;&nbsp;├── <a href="/architecture_inspection/integrability/">integrability</a><br>
-&nbsp;&nbsp;&nbsp;└── <a href="/architecture_inspection/modifiability/">modifiability</a><br>
-├── <a href="/controlled_experiment/">controlled_experiment</a><br>
-&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/analysis_scripts/">analysis_scripts</a><br>
-&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/dataset/">dataset</a><br>
-&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/morse_simulation/">morse_simulation</a><br>
-&nbsp;&nbsp;&nbsp;└── <a href="/controlled_experiment/results/">results</a><br>
-└── <a href="/hmrs_mission_control/">hmrs_mission_control</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/deeco/">deeco</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/evaluation/">evaluation</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/mission_control/">mission_control</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/models/">models</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/resources/">resources</a><br>
-&nbsp;&nbsp;&nbsp; ├── <a href="/hmrs_mission_control/tests/">tests</a><br>
-&nbsp;&nbsp;&nbsp; └── <a href="/hmrs_mission_control/utils/">utils</a><br>
+├── <a href="/architecture_inspection/">architecture_inspection</a>Artifacts for reproducing the architecture inspection process of Section 6.2<br>
+&nbsp;&nbsp;&nbsp;├── <a href="/architecture_inspection/integrability/">integrability</a>Contains the working model for answering "How integrable is MissionControl?"<br>
+&nbsp;&nbsp;&nbsp;└── <a href="/architecture_inspection/modifiability/">modifiability</a>Contains the working model for answering "How modifiable is MissionControl?"<br>
+├── <a href="/controlled_experiment/">controlled_experiment</a>Artifacts for repeating the controlled experiments of Section 6.1<br>
+&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/analysis_scripts/">analysis_scripts</a>Jupyter scripts for analysis of the datasets<br>
+&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/dataset/">dataset</a> Dataset generated from running the simulations<br>
+&nbsp;&nbsp;&nbsp;├── <a href="/controlled_experiment/morse_simulation/">morse_simulation</a> Tooling for executing the controlled experiments<br>
+&nbsp;&nbsp;&nbsp;└── <a href="/controlled_experiment/results/">results</a>Graphs and plots<br>
+└── <a href="/hmrs_mission_control/">hmrs_mission_control</a>Implementation of MissionControl<br>
