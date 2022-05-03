@@ -1,5 +1,7 @@
 # JSS 2022 - Replication Package
 
+[![DOI](https://zenodo.org/badge/488244608.svg)](https://zenodo.org/badge/latestdoi/488244608)
+
 This is the replication package of the paper entitled "An Architecture for Mission Coordination of Heterogeneous Robots" submitted to the Internation Journal of Systems and Software.
 
 This study has been conducted by the following investigators:
