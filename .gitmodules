@@ -1,6 +1,6 @@
-[submodule "hmrs_mission_control"]
-	path = hmrs_mission_control
-	url = git@github.com:gabrielsr/hmrs_mission_control.git
 [submodule "controlled_experiment/morse_simulation"]
 	path = controlled_experiment/morse_simulation
 	url = git@github.com:lesunb/morse_simulation.git
+[submodule "hmrs_mission_control"]
+	path = hmrs_mission_control
+	url = git@github.com:gabrielsr/hmrs_mission_control.git
