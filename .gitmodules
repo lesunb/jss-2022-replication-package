@@ -1,0 +1,3 @@
+[submodule "controlled_experiment/morse_simulation"]
+	path = controlled_experiment/morse_simulation
+	url = git@github.com:lesunb/morse_simulation.git
